@@ -1,0 +1,135 @@
+body {
+    background-color: lightslategray;
+}
+.wrapper {
+display: flex;
+margin-top: 2vw;
+}
+.google {
+    margin: auto;
+    padding: 2vw;
+    text-align: center;
+    height: 10vw; 
+    width: 22vw;
+    border: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+.twitter {
+    margin: auto;
+    padding: 2vw;
+    text-align: center;
+    height: 10vw; 
+    width: 22vw;
+    border: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+.github {
+    margin: auto;
+    padding: 2vw;
+    text-align: center;
+    height: 10vw; 
+    width: 22vw;
+    border: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+h1 {
+    font-size: 2.9vw;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 4vw;
+}
+h2 {
+    font-size: 2vw;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2vw;
+
+}
+h3 {
+    font-size: 1vw;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.h3 {
+    margin: auto;
+    margin-top: 2vw;
+    padding: 2vw;
+    text-align: center;
+    height: 10vw; 
+    width: 25vw;
+    border: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    font-family: 'Roboto', sans-serif;
+}
+img {
+    margin: auto;
+    text-align: center;
+    width: 20vw;
+    height: 20vw;
+}
+
+.data {
+    margin-top: 3vw;
+    display: flex;
+}
+.form {
+    font-size: 2vw;
+    margin-top: 8vw;
+}
+.youtube {
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    background-color: white;
+    width: 60vw;
+    min-height: 40vw;
+    height: 100%; 
+
+}
+.pdata {
+    margin-top: 3vw;
+    margin: auto;
+    text-align: center;
+    min-height: 40vw;
+    height: 100%; 
+    width: 40vw;
+    background-color: white;
+    border: 2px solid black;
+
+}
+.patient {
+    margin: auto;
+    padding: 2vw;
+    text-align: center;
+    height: 10vw; 
+    font-family: 'Roboto', sans-serif;
+}
+.graph {
+    margin: auto;
+    padding: 2vw;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.dropdown {
+    margin: auto;
+    padding-top: 2vw;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.ima-graph {
+    border-radius: 1px solid black !important;
+    text-align: center;
+    padding-top: 1vw;
+}
+.logout {
+    text-align: center;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    font-family: 'Roboto', sans-serif;
+
+}
